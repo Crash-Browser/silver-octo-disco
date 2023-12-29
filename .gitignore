@@ -1,0 +1,11 @@
+**/*.rs.bk
+**/*.orig
+
+/.vscode/
+/.idea/
+/target/
+
+third_party/android_ndk
+third_party/android_platform
+third_party/catapult
+third_party/llvm-build
